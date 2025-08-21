@@ -212,7 +212,7 @@ footer {
     
     .skill-list p {
         width: 80%;
-        text-align: center;
+        text-align: left;
     }
 
     .content {
@@ -224,4 +224,5 @@ footer {
     width: 80%;
     text-align: center;
 }
+
 }
